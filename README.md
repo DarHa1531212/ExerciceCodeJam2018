@@ -1,1 +1,0 @@
-ExerciceCodeJam2018
